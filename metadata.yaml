@@ -1,0 +1,32 @@
+_repo: Battlewrack_60530
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Austin, F. Britten (Frederick Britten)
+    aliases:
+    - Austin, Frederick Britten
+    - Austin, Britten
+    birthdate: 1885
+    deathdate: 1941
+    gutenberg_agent_id: '51002'
+    url: http://www.gutenberg.org/2009/agents/51002
+description: ''
+gutenberg_issued: '2019-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The battery (1914) -- Pro patria -- Nerves! -- The air scout (1914)
+  -- Kultur (1915) -- The magic of Muhammed Din -- The other side -- Na Nos! -- Per
+  la più grande Italia! -- Panzerkraftwagen! -- Nach Verdun! -- The châtelaine of
+  Lysboisée -- They come back.
+title: Battlewrack
+url: http://www.gutenberg.org/ebooks/60530
